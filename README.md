@@ -1,6 +1,9 @@
 Hi,there. I'm Apolo.
 
 My Kaggle Account: https://www.kaggle.com/shkanda
+<img width="1230" alt="kaggle_profile" src="https://user-images.githubusercontent.com/81549441/181761071-0c3be0f4-9120-409b-9d12-21bfb262c416.png">
+
+
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/competition)
 
