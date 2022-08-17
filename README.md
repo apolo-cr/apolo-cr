@@ -1,12 +1,14 @@
 Hi,there. I'm Apolo.
 
+I love data science and Kaggle community.
+
 My Kaggle Account: https://www.kaggle.com/shkanda
 
-<div align="center">
-<img width="800" alt="kaggle profile 0729" src="https://user-images.githubusercontent.com/81549441/181767556-81dddbbb-d8d1-4956-80bd-6a31c8024d91.png">
-</div>
+- 2022/5 H&M :  🥈 (solo - 17th / 2,952)
+- 2022/7 Foursquare : 🥈 (43th / 1,083)
+- 2021/11 Google Brain : 🥈 (solo - 120th / 2,605)
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/competition)
-
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shkanda/discussion)
